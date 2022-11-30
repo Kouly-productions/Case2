@@ -1,0 +1,15 @@
+C:\Users\eliko\source\repos\Case2\Case2\bin\Debug\net6.0\Case2.exe
+C:\Users\eliko\source\repos\Case2\Case2\bin\Debug\net6.0\Case2.deps.json
+C:\Users\eliko\source\repos\Case2\Case2\bin\Debug\net6.0\Case2.runtimeconfig.json
+C:\Users\eliko\source\repos\Case2\Case2\bin\Debug\net6.0\Case2.dll
+C:\Users\eliko\source\repos\Case2\Case2\bin\Debug\net6.0\Case2.pdb
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.csproj.AssemblyReference.cache
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.AssemblyInfoInputs.cache
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.AssemblyInfo.cs
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.csproj.CoreCompileInputs.cache
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.dll
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\refint\Case2.dll
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.pdb
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\Case2.genruntimeconfig.cache
+C:\Users\eliko\source\repos\Case2\Case2\obj\Debug\net6.0\ref\Case2.dll
